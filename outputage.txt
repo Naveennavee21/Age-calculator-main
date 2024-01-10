@@ -1,0 +1,3 @@
+Enter your birthdate (yyyy-MM-dd):
+1990-03-15
+Your age is 33 years, 6 months, and 15 days
